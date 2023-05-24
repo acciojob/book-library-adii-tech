@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.main{
+	background-color:red;
+	width:100%;
+	display:flex;
+	justify-content:center;
+}
+.book-library{
+	background-color:black;
+	width:80%;
+	display:flex;
+	justify-content:center;
+	
+    	
+}
